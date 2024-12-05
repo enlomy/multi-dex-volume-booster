@@ -37,7 +37,11 @@ This is designed to increase the trading volume of any Solana token that has liq
 ### - **Wallet Counts**: User can set wallet counts as you want
 ### - **Select Specific Dex**: User can select specific dex where as you want boost
 
+
 ## 📞 Contact Info
 
 ### Telegram: [enlomy](https://t.me/enlomy)
-### Discord: [enlomy](https://discordapp.com/users/1074553493974691840)
+
+## 🍵 Tip
+
+### If you are intereseted in my projects, please 🔗fork or give me ⭐star
